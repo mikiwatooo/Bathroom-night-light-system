@@ -11,9 +11,9 @@ Michał Matras, Andrzej Zadęcki
 
 # Device working enviroment
 
-Power supply: 12V DC (output current must be appropriate for connceted led strip)
-Wifi network: necessary for adjusting brightenes, trigger parameters and time
-Water ressitance: no
+- Power supply: 12V DC (output current must be appropriate for connceted led strip)
+- Wifi network: necessary for adjusting brightenes, trigger parameters and time
+- Water ressitance: no
 
 
 # Market analysis
@@ -23,11 +23,11 @@ After looking for products that have similar functions as our product is suppose
 1. LAMPKA NOCNA LED Virone LA-2 + CZUJNIK RUCHU I ZMIERZCHU (https://elektrone.pl/lampka-nocna-led-virone-la-2-czujnik-ruchu-i-zmierzchu-p-4268.html)
 
 Pros: 
--230V AC supply voltage
--small size
+- 230V AC supply voltage
+- small size
 
 Cons:
--no adjustments to brightnes or time 
+- no adjustments to brightnes or time 
 
 Price: ~30 PLN
 
