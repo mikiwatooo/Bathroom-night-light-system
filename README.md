@@ -2,3 +2,6 @@
 Design Lab project - bathroom night light system
 
 Michał Matras, Andrzej Zadęcki
+
+
+# Market analysis
